@@ -1,4 +1,4 @@
-# Space Barr Crusher
+# Space bar Crusher
 
 Little game based on Java
 
